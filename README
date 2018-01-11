@@ -1,0 +1,14 @@
+
+npm install --dev
+
+## start
+npm run client
+
+### production
+npm run build
+npm run server
+
+
+open localhost:3000
+
+![alt text](/preview.png "Preview Image")
